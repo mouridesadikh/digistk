@@ -13,3 +13,5 @@ If you discover a security vulnerability within Digi Stock, please send an e-mai
 ## License
 
 The Digi Stock software is licensed under the [digi221 license](https://digi221.net/licenses/standard).
+
+la base données est dans le dossier bd
